@@ -5,3 +5,6 @@ run this command
 ./chemdner_tag.sh endata/chemdner_abs_test.txt 
 we can get the cdi result file: chemder_cdi
 and cem file : chemder_cem
+
+our system can be downloaded from 
+http://pan.baidu.com/s/1dD07cad
