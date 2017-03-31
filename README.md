@@ -7,4 +7,4 @@ we can get the cdi result file: chemder_cdi
 and cem file : chemder_cem
 
 our system can be downloaded from 
-http://pan.baidu.com/s/1dD07cad
+http://pan.baidu.com/share/link?shareid=902694130&uk=3340336781
